@@ -57,7 +57,7 @@ Calculated present value using:
 ![Accrual Rate](images/sensitivity_accrual_rate.png)
 
 ### Tornado Chart 
-![Tornado Chart](images/tornado_chart.png)s
+![Tornado Chart](images/tornado_chart.png)
 
 ## What I Learned
 
